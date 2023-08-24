@@ -61,7 +61,7 @@ Complete the source code in order to print the float stored in the variable `num
 * You have to use f-strings  
 
 **Task 5:** **[5-print_string.py](5-print_string.py)**  
-Complete this [source code](https://github.com/alx-tools/0x00.py/blob/master/5-print_string.py)** in order to print 3 times a string stored in the variable `str`, followed by its first 9 characters.  
+Complete this [source code](https://github.com/alx-tools/0x00.py/blob/master/5-print_string.py) in order to print 3 times a string stored in the variable `str`, followed by its first 9 characters.  
 * The output of the program should be:  
   - 3 times the value of `str`  
   - followed by a new line  
